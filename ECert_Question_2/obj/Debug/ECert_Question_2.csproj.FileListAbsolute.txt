@@ -1,0 +1,8 @@
+C:\Users\rbundhoo\source\repos\ECert_Question_2\ECert_Question_2\bin\Debug\ECert_Question_2.exe.config
+C:\Users\rbundhoo\source\repos\ECert_Question_2\ECert_Question_2\bin\Debug\ECert_Question_2.exe
+C:\Users\rbundhoo\source\repos\ECert_Question_2\ECert_Question_2\bin\Debug\ECert_Question_2.pdb
+C:\Users\rbundhoo\source\repos\ECert_Question_2\ECert_Question_2\obj\Debug\ECert_Question_2.csproj.AssemblyReference.cache
+C:\Users\rbundhoo\source\repos\ECert_Question_2\ECert_Question_2\obj\Debug\ECert_Question_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\rbundhoo\source\repos\ECert_Question_2\ECert_Question_2\obj\Debug\ECert_Question_2.csproj.CoreCompileInputs.cache
+C:\Users\rbundhoo\source\repos\ECert_Question_2\ECert_Question_2\obj\Debug\ECert_Question_2.exe
+C:\Users\rbundhoo\source\repos\ECert_Question_2\ECert_Question_2\obj\Debug\ECert_Question_2.pdb
